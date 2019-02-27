@@ -1,16 +1,24 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Sooyun
+subtitle: I ♥ WEB / MOBILE / AI
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi! My name is Sooyun Lee. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+# Work
+2016.1 ~ Koscom - Software Egineer, Capital Market IT ( Mobile ) 
+2011.12 - 2015.12 eBay Korea - Onlie Shopping, Software Engineer ( Architecture, Mobile ) 
 
-What else do you need?
+# Education
+2010 - 2012  Master of Engineering, Human Computer Interaction Laboratory, Department of Computer Science and Engineering, Seoul National University, Korea
 
-### my history
+2006 - 2010  Bachelor of Science, Department of Computer Science, Yonsei University, Korea
+  Minor in Department of Business Administration, Yonsei University, Korea
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+# Skills
+Programming : Node.js, Javascript, Objective C, C/C++, C#, Java( + Android) , HTML
+
+
+
